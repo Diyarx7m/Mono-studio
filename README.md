@@ -6,11 +6,6 @@ A minimal creative studio website built as a front-end concept project. The goal
 
 ---
 
-## Preview
-
-![Mono Studio Preview](https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=1200&q=80&fit=crop)
-
----
 
 ## Tech Stack
 
